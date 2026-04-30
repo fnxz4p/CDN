@@ -1,14 +1,14 @@
 # 🗂️ CDN — fanzxnothuman
 
-Personal CDN buat nyimpen aset statis kayak gambar, audio, dll.
-Dipake sama bot Telegram & WhatsApp gw.
+personal CDN buat nyimpen aset statis kaya gambar, audio, dll.
+dipake sama bot Telegram & WhatsApp gw.
 
-## 📁 Isi Repo
-- Thumbnail / gambar menu bot
-- Audio bot
-- Aset lainnya
+## 📁 ISI REPO
+- thumbnail / gambar menu bot
+- audio bot
+- aset lainnya
 
-## 🔗 Cara Akses
+## 🔗 CARA AKSES
 ```
 https://raw.githubusercontent.com/fnxz4p/CDN/refs/heads/main/NAMAFILE
 ```
