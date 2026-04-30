@@ -9,9 +9,9 @@ Dipake sama bot Telegram & WhatsApp gw.
 - Aset lainnya
 
 ## 🔗 Cara Akses
-\```
+```
 https://raw.githubusercontent.com/fnxz4p/CDN/refs/heads/main/NAMAFILE
-\```
+```
 
 ---
 > Maintained by [@fanzxnothuman](https://t.me/fanzxnothuman)
